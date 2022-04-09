@@ -1,0 +1,23 @@
+.korzina_box {
+    padding-top: 150px;
+}
+
+.table {
+    margin-bottom: 50px;
+    width: 1000px;
+}
+
+th {
+    padding: 15px 0px;
+}
+
+.korzina_pusto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.total_price {
+    font-size: 20px;
+    font-weight: 600;
+}
